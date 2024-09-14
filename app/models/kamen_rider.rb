@@ -1,0 +1,2 @@
+class KamenRider < ApplicationRecord
+end
